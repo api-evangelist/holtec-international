@@ -1,0 +1,69 @@
+aid: holtec-international
+name: Holtec International
+description: >-
+  Holtec International is a privately held American supplier of equipment and
+  systems for the nuclear, solar, geothermal, and fossil power-generation
+  industries. The company is best known for its spent-fuel storage and transport
+  casks (HI-STAR, HI-STORM, HI-STORE CISF), decommissioning services through
+  Holtec Decommissioning International (HDI), and its in-development SMR-300
+  small modular reactor — a roughly 320 MWe two-loop pressurized water reactor
+  with an 80-year design life. Holtec is currently pursuing the first-ever
+  restart of a permanently shut-down U.S. commercial nuclear power plant at
+  Palisades in Michigan, which is also designated as the first deployment site
+  for the SMR-300. The company runs manufacturing facilities in Camden, NJ,
+  Pittsburgh, PA, and Orrville, OH, and partners with Hyundai Engineering &
+  Construction (HDEC) on SMR-300 detailed design and full-scope plant
+  construction.
+type: Index
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+access: 3rd-Party
+position: Consumer
+created: '2026-05-23'
+modified: '2026-05-23'
+url: >-
+  https://raw.githubusercontent.com/api-evangelist/holtec-international/refs/heads/main/apis.yml
+specificationVersion: '0.19'
+tags:
+  - Clean Energy
+  - Decommissioning
+  - Energy
+  - Nuclear
+  - Nuclear Fuel
+  - Palisades
+  - Reactor
+  - SMR-300
+  - Small Modular Reactor
+  - Spent Fuel Storage
+apis: []
+common:
+  - type: Website
+    url: https://holtecinternational.com/
+  - type: AboutUs
+    url: https://holtecinternational.com/company/
+  - type: Mission
+    url: https://holtecinternational.com/company/mission/
+  - type: Leadership
+    url: https://holtecinternational.com/company/leadership/corporate-leadership/
+  - type: Governance
+    url: https://holtecinternational.com/company/corporate-governance/
+  - type: QualityAssurance
+    url: https://holtecinternational.com/company/quality-assurance/
+  - type: Products
+    url: https://holtecinternational.com/products-and-services/
+  - type: SMR
+    url: https://holtecinternational.com/products-and-services/smr/
+  - type: Palisades
+    url: https://holtecinternational.com/palisades/
+  - type: News
+    url: https://holtecinternational.com/news/
+  - type: PressReleases
+    url: https://holtecinternational.com/news/
+  - type: Careers
+    url: https://holtec.jobs.hr.cloud.sap/
+  - type: Contact
+    url: https://holtecinternational.com/contact-us/contact/
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/holtec-international
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
