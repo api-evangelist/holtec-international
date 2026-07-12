@@ -36,6 +36,8 @@ tags:
   - Spent Fuel Storage
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/holtec-international-domain-security.yml
   - type: Website
     url: https://holtecinternational.com/
   - type: AboutUs
@@ -64,6 +66,8 @@ common:
     url: https://holtecinternational.com/contact-us/contact/
   - type: LinkedIn
     url: https://www.linkedin.com/company/holtec-international
+  - url: https://holtecinternational.com/feed/
+    type: Blog
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
