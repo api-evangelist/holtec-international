@@ -1,4 +1,4 @@
-# Holtec International (holtec-international)
+# Holtec International
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,84 +64,80 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Holtec International is a privately held American nuclear technology supplier best known for spent-fuel storage and transport systems (HI-STAR, HI-STORM, HI-STORE CISF), decommissioning services through Holtec Decommissioning International (HDI), and its in-development SMR-300 small modular reactor — a two-loop pressurized water reactor producing more than 320 MWe with an 80-year design life. Holtec is pursuing the first-ever restart of a permanently shut-down U.S. commercial nuclear power plant at the Palisades Nuclear Plant in Michigan, which is also designated as the first deployment site for the SMR-300.
+Holtec International is a privately held American supplier of equipment and systems for the nuclear, solar, geothermal, and fossil power-generation industries. The company is best known for its spent-fuel storage and transport casks (HI-STAR, HI-STORM, HI-STORE CISF), decommissioning services through Holtec Decommissioning International (HDI), and its in-development SMR-300 small modular reactor — a roughly 320 MWe two-loop pressurized water reactor with an 80-year design life. Holtec is currently pursuing the first-ever restart of a permanently shut-down U.S. commercial nuclear power plant at Palisades in Michigan, which is also designated as the first deployment site for the SMR-300. The company runs manufacturing facilities in Camden, NJ, Pittsburgh, PA, and Orrville, OH, and partners with Hyundai Engineering & Construction (HDEC) on SMR-300 detailed design and full-scope plant construction.
 
-**URL:** [Visit APIs.json URL](https://raw.githubusercontent.com/api-evangelist/holtec-international/refs/heads/main/apis.yml)
+**Areas:** Clean Energy · Decommissioning · Energy · Nuclear · Nuclear Fuel · Palisades · Reactors · SMR-300 · Small Modular Reactor · Spent Fuel Storage
 
-## Scope
+## Holtec International on APIs.io
 
-- **Type:** Index
-- **Position:** Consumer
-- **Access:** 3rd-Party
+Everything profiled for Holtec International is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/holtec-international/](https://apis.io/providers/holtec-international/)** — or go straight to one of the APIs or properties below.
 
-## Tags
+### Published properties
 
-- Clean Energy
-- Decommissioning
-- Energy
-- Nuclear
-- Nuclear Fuel
-- Palisades
-- Reactor
-- SMR-300
-- Small Modular Reactor
-- Spent Fuel Storage
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
-## Timestamps
+#### Security (1)
 
-- **Created:** 2026-05-23
-- **Modified:** 2026-05-23
+Authentication, trust centre, and vulnerability disclosure.
 
-## APIs
+- [Holtec International Domain Security](https://apis.io/security/holtec-international/holtec-international-domain-security/)
 
-No public APIs have been documented for Holtec International. Holtec is a heavy-industrial nuclear engineering, manufacturing, and services company; its products are nuclear fuel storage casks, reactor systems, decommissioning services, and engineered equipment delivered under regulated commercial and government contracts rather than as developer-facing digital products. Contributions welcome.
+## Where to find this API
 
-## SMR-300 — Small Modular Reactor
-
-Holtec's flagship clean-energy program. Headline characteristics from the official product page:
-
-- Approximately 1,000 MWth thermal power; net electrical output greater than 320 MWe
-- Two-loop pressurized water reactor with integrated steam generator and pressurizer
-- Passive safety systems; operates without safety-related AC power
-- 80-year design life; minimal staffing (~270 people for a twin-unit plant)
-- Manufactured at three U.S. facilities: Advanced Manufacturing Division (Camden, NJ), Holtec Manufacturing Division (Pittsburgh, PA), and Orrvilon (Orrville, OH)
-- Hyundai Engineering & Construction (HDEC) is responsible for detailed design and full-scope plant construction
-- "The first SMR-300 will be built and operated at Palisades in Michigan."
-- Holtec's design and licensing team is "finalizing the SMR-300 design and preparing the first part of the construction permit application (CPA Part I) to the NRC by December 2025"
-- Preconstruction activities at Palisades targeted to begin mid-2027
-- SMR-300 has completed a key regulatory milestone in the UK (March 2026), enabling deployment paths in Great Britain and other countries in Europe and Asia
-- Comprehensive deployment agreement signed with the Republic of Rwanda in May 2026
-
-## Palisades Nuclear Plant Restart
-
-Holtec acquired the Palisades plant after its 2022 shutdown and is leading the first-ever effort to restart a permanently shut-down U.S. commercial nuclear power reactor. Holtec expects to restart the existing Palisades reactor in Q4 2025. The site is also designated as the deployment location for the first SMR-300 ("Pioneer 1" and "Pioneer 2" units referenced in the May 2026 HI-STAC technical advisory council meeting).
-
-## Common Properties
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
 - [Website](https://holtecinternational.com/)
-- [About Us](https://holtecinternational.com/company/)
-- [Mission](https://holtecinternational.com/company/mission/)
-- [Leadership](https://holtecinternational.com/company/leadership/corporate-leadership/)
-- [Corporate Governance](https://holtecinternational.com/company/corporate-governance/)
-- [Quality Assurance](https://holtecinternational.com/company/quality-assurance/)
-- [Products and Services](https://holtecinternational.com/products-and-services/)
-- [SMR-300](https://holtecinternational.com/products-and-services/smr/)
-- [Palisades](https://holtecinternational.com/palisades/)
-- [News](https://holtecinternational.com/news/)
-- [Press Releases](https://holtecinternational.com/news/)
-- [Careers](https://holtec.jobs.hr.cloud.sap/)
-- [Contact](https://holtecinternational.com/contact-us/contact/)
+- [Blog](https://holtecinternational.com/feed/)
 
-## Social
+## API Evangelist rating
 
-- [LinkedIn](https://www.linkedin.com/company/holtec-international)
+**Kin Score 4.2** — minimal · rubric 0.24.0 · scored 2026-10-17
 
-## GitHub Presence
+| Facet | Score |
+|---|---|
+| Discoverability | 50.0 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 2.4 |
+| Access clarity | 0.0 |
 
-A `holtec-international` GitHub organization exists (created April 2019) but has zero public repositories. No public SDKs, CLIs, OpenAPI specs, or developer tooling were found.
+**Agent readiness 0.0** — human-only
 
-## Maintainers
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
 
-**FN:** Kin Lane
+**Regulatory alignment 4.9** — Energy & Utilities
 
-**Email:** kin@apievangelist.com
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/holtec-international/](https://apis.io/providers/holtec-international/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Holtec International: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/holtec-international/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
